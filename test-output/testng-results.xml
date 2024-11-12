@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="12" total="13" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-09T23:45:18 GMT+03:00" name="Default suite" finished-at="2024-11-09T23:45:58 GMT+03:00" duration-ms="39898">
+  <suite started-at="2024-11-12T22:43:45 GMT+03:00" name="Default suite" finished-at="2024-11-12T22:44:27 GMT+03:00" duration-ms="41940">
     <groups>
     </groups>
-    <test started-at="2024-11-09T23:45:18 GMT+03:00" name="Default test" finished-at="2024-11-09T23:45:58 GMT+03:00" duration-ms="39898">
+    <test started-at="2024-11-12T22:43:45 GMT+03:00" name="Default test" finished-at="2024-11-12T22:44:27 GMT+03:00" duration-ms="41940">
       <class name="Mytestcases">
-        <test-method is-config="true" signature="Mysetup()[pri:0, instance:Mytestcases@2c7b5824]" started-at="2024-11-09T23:45:19 GMT+03:00" name="Mysetup" finished-at="2024-11-09T23:45:54 GMT+03:00" duration-ms="35739" status="PASS">
+        <test-method is-config="true" signature="Mysetup()[pri:0, instance:Mytestcases@4218500f]" started-at="2024-11-12T22:43:45 GMT+03:00" name="Mysetup" finished-at="2024-11-12T22:44:01 GMT+03:00" duration-ms="16688" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Mysetup -->
-        <test-method signature="SelectTag()[pri:3, instance:Mytestcases@2c7b5824]" started-at="2024-11-09T23:45:55 GMT+03:00" name="SelectTag" finished-at="2024-11-09T23:45:58 GMT+03:00" duration-ms="3678" status="PASS">
+        <test-method signature="IFrame()[pri:12, instance:Mytestcases@4218500f]" started-at="2024-11-12T22:44:02 GMT+03:00" name="IFrame" finished-at="2024-11-12T22:44:27 GMT+03:00" duration-ms="25059" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SelectTag -->
+        </test-method> <!-- IFrame -->
       </class> <!-- Mytestcases -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
